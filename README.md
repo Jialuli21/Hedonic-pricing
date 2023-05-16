@@ -1,1 +1,9 @@
 # Hedonic-pricing
+
+### **1. Introduction**
+
+As the pillar industry of the country, the real estate industry plays a key role in promoting the growth of GDP. Therefore, understanding the key drivers of housing prices is critical for investors and individuals to make informed decision about buying and selling houses, and for policymakers and city planners to form the real estate landscape in the city. This is especially important for cities like New York, because the extremely large population requires thorough consideration of developing healthy living and city economy via zoning regulation, affordable housing, taxation, etc. This project intends to study factors that influence housing prices in the outer boroughs NYC, excluding Staten Island, and the extent in order to provide insights into long-term development of the real estate market in the region.
+
+As mentioned previously, the research question for this project is: **What are factors, primarily property attributes and neighborhood environment, that associate with housing price in the outer boroughs NYC, excluding Staten Island, and the magnitude of the factors’influence.** The dataset used in this project contains basic property characteristics such as property units, property size, and the year built, as well as exogenous factors, such as the proximity to subway stations, restaurants, and the safety condition around the neighborhood. Besides, this project puts emphasis on studying the strength of the relationship between these factors and housing price, instead of on housing price prediction, which will provide more referable information for city planning to determine housing factors that should be given priority to.
+
+For this research question, we hypothesize that properties that are closer to public transit, such as subway, will be more desirable because transportation convenience in NYC is particularly important, the majority of people need to commute to and back from work.
